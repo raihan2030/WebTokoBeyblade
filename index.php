@@ -51,7 +51,7 @@ $productsData = $conn->query("SELECT * FROM ITEMS");
     </div>
 
     <div id="footer">
-        <p>&copy; Made by: Muhammad Raihan & Muhammad Firas</p>
+        <p>&copy; Made by: Muhammad Raihan & Muhammad Firas & Pak Andre</p>
     </div>
 </body>
 </html>
